@@ -1,0 +1,19 @@
+# Секретные данные
+.env
+
+# Виртуальное окружение
+venv/
+env/
+ds/
+.venv/
+
+# Временные файлы Python
+__pycache__/
+*.pyc
+
+# Временные файлы Jupyter
+.ipynb_checkpoints/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
